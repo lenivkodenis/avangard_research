@@ -1,4 +1,4 @@
-# Avangard Focus Dashboard
+# Авангард. Оценка потерь.
 
 Client-facing static dashboard for Avangard review.
 
